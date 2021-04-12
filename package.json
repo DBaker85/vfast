@@ -47,7 +47,7 @@
     "@types/adm-zip": "0.4.34",
     "@types/bytes": "3.1.0",
     "@types/d3-array": "2.9.0",
-    "@types/fs-extra": "9.0.8",
+    "@types/fs-extra": "9.0.11",
     "@types/jest": "26.0.21",
     "@types/lodash.debounce": "4.0.6",
     "@types/node": "14.14.35",
