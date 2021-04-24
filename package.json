@@ -108,7 +108,7 @@
     "lodash.debounce": "4.0.8",
     "preact": "10.5.13",
     "react-ga": "3.3.0",
-    "react-redux": "7.2.3",
+    "react-redux": "7.2.4",
     "redux": "4.0.5",
     "redux-persist": "6.0.0",
     "regenerator-runtime": "0.13.7",
