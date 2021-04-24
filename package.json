@@ -109,7 +109,7 @@
     "preact": "10.5.13",
     "react-ga": "3.3.0",
     "react-redux": "7.2.3",
-    "redux": "4.0.5",
+    "redux": "4.1.0",
     "redux-persist": "6.0.0",
     "regenerator-runtime": "0.13.7",
     "requestidlecallback-polyfill": "1.0.2",
