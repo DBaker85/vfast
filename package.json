@@ -62,7 +62,7 @@
     "chalk": "4.1.0",
     "chromatic": "5.7.1",
     "copy-webpack-plugin": "8.1.1",
-    "core-js": "3.10.1",
+    "core-js": "3.14.0",
     "coveralls": "3.1.0",
     "del-cli": "3.0.1",
     "file-loader": "6.2.0",
